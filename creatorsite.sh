@@ -24,10 +24,12 @@ if [ "$ouinon" = "y" ] || [ "$ouinon" = "Y" ]; then
 	mkdir -p $nom/css/imgcss
 	mkdir -p $nom/js
 	mkdir -p $nom/images
+	mkdir -p $nom/php
 	touch $nom/index.html
 	touch $nom/css/style.css
 	touch $nom/js/script.js
-	touch $nom/js/index.php
+	touch $nom/js/jquery.js
+	touch $nom/php/index.php
 	echo ""
 	echo "\033[1;35m<*>==========================================================================<*>"
 	echo "\033[1;33m                                C'est parti !                                   "
