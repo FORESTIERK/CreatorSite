@@ -43,7 +43,7 @@ sleep 2s;echo "70%"
 sleep 2s;echo "90%"
 sleep 2s;echo "Création Terminer !"
 sleep 4s;
-#============= Fin de Barre de Progréssion =============#
+#============= Fin de Progréssion =============#
 
 ##============= Suite Création de Dossier =============#
 
