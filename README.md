@@ -21,6 +21,8 @@ Et Hop ! Voila ! Le CreatorSite vous créez un dossier avec le nom demandé, vou
     - index.php
     - script.js
   - images
+  
+  => Il sera en auto exécutable ! Suivre l'INSTALLATION !
 
 <*>=== INSTALLATION ===<*>
 
