@@ -59,4 +59,4 @@ else
 
 fi
 
-EXIT 30
+EXIT 0
