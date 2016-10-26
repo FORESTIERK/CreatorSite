@@ -6,7 +6,7 @@ date "+%A %d %B %Y %H:%M:%S"
 #============= Création de Dossier =============#
 echo ""
 echo "\033[1;35m<*>==========================================================================<*>"
-echo "\033[33m        Voulez-vous crée les dossiers pour configuer votre site ? \033[1;36mY\033[33m/\033[1;31mN :"
+echo "\033[33m        Voulez-vous crée les dossiers pour configuer votre site ? \033[1;36mY\033[33m/\033[1;31mN \033[33m:"
 echo "\033[1;35m<*>==========================================================================<*>\033[1;34m"
 echo ""
 read ouinon
