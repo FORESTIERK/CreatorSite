@@ -18,8 +18,10 @@ Et Hop ! Voila ! Le CreatorSite vous créez un dossier avec le nom demandé, vou
     - imgcss
     - style.css
   - js
-    - index.php
+    - jquery.
     - script.js
+  - php
+    - index.php
   - images
   
   => Il sera en auto exécutable ! Suivre l'INSTALLATION !
