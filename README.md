@@ -38,7 +38,6 @@ Et Hop ! Voila ! Le CreatorSite vous créez un dossier avec le nom demandé, vou
 
 6) Dans votre terminal vous écrivez " chmod +x CreatorSite.sh ", ceci va permettre de mettre le fichier en executable quand vous ferez un double clic. Faite un teste double clic et normalement il devrait vous demander de l'ouvrir soit en "Logiciel d'Ecriture" ou "Lancer dans un Terminal"; cliquez sur "Lancer dns un Terminal".
 
-7) Si la N°6 ne fonctionne pas alors écrivé dans votre terminal " bash +x CreatorSite.sh ".
-
+7) Si la N°6 ne fonctionne pas alors selectionner et en haut à gauche vous cliquez sur "Edition" puis "Préférence", ensuite "Comportement" et cocher sur "Demander à chaque fois".
 
 /!\ En cas d'affiche d'erreur lors de la création de vos dossiers pour travailler sur votre site, ça sera surêment le probème de droit donc toujours dans votre terminal faite ceci " chmod 777 CreatorSite.sh "; si l'erreur persiste faite là même commande mais vous mettez "sudo" avant le "chmod".
